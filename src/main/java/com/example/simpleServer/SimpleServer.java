@@ -1,3 +1,5 @@
+package com.example.simpleServer;
+
 import java.io.*;
 import java.net.*;
 

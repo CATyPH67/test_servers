@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "java.io": "^2.4.0"
+  }
+}

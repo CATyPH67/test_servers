@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b753e83-a6fd-4467-988e-66d04e0234d3" name="Changes" comment="add simple server">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/simpleServer/SimpleServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springServer/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/springServer/SpringServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    <list default="true" id="8b753e83-a6fd-4467-988e-66d04e0234d3" name="Changes" comment="add spring server and mvn">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SimpleServer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +64,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751195049237</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add spring server and mvn">
+      <option name="closed" value="true" />
+      <created>1751199103688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751199103688</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add simple server" />
-    <option name="LAST_COMMIT_MESSAGE" value="add simple server" />
+    <MESSAGE value="add spring server and mvn" />
+    <option name="LAST_COMMIT_MESSAGE" value="add spring server and mvn" />
   </component>
 </project>
